@@ -1,0 +1,19 @@
+# --- R and RStudio ---
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# --- Data (not published) ---
+data/raw/
+data/interim/
+general use data/
+# --- Deployment ---
+rsconnect/
+
+# --- Mac ---
+.DS_Store
+.Rproj.user
+.httr-oauth
+.quarto

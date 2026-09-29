@@ -1,0 +1,28 @@
+install.packages(c("sf", "dplyr", "tidyr", "readr", "stringr", "purrr", "janitor", "units",
+                   "arcgislayers", "tidycensus", "tigris", "lehdr", "tidytransit",
+                   "ggplot2", "ggiraph", "gt",
+                   "shiny", "bslib", "leaflet", "reactable", "rsconnect",
+                   "usethis", "gitcreds"))
+library(sf)
+library(dplyr)
+library(tidyr)
+library(readr)
+library(stringr)
+library(purrr)
+library(janitor)
+library(units)
+library(arcgislayers)
+library(tidycensus)
+library(tigris)
+library(lehdr)
+library(tidytransit)
+library(ggplot2)
+library(ggiraph)
+library(gt)
+library(shiny)
+library(bslib)
+library(leaflet)
+library(reactable)
+library(rsconnect)
+library(usethis)
+library(gitcreds)
