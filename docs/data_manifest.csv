@@ -1,0 +1,2 @@
+dataset,source,access_method,url,date_pulled,vintage,crs,terms,script,output_file,notes
+RLIS Taxlots (Public),Metro RLIS,ArcGIS REST API via arcgislayers,https://services2.arcgis.com/McQ0OlIABe29rJJy/arcgis/rest/services/Taxlots_(Public)/FeatureServer/3,2026-09-24,,,,script: R/01_get_taxlots.R,,
